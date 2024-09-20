@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
 
-Hafta 3
 
-ödev 1
-"""
+"""Hafta 3"""
+
+"""ödev 1"""
 
 # prompt: Değişkenlere atanmış değerlerin veri tipleri arasında dönüşüm yapılır.
 
