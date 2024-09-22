@@ -12,3 +12,4 @@ elif password_length < 6:
     print("Your password must be 6 digit or more ")
 else :
     print("Your password must be 6 digit or less")
+    user_password = input("Please enter your password: ")

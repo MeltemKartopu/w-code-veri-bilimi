@@ -8,7 +8,7 @@
  Bunu oluştururken kullanıcı istediğimiz şartlarda şifre oluşturana kadar sormaya devam eder
 
  """
-user_name1 = input("Please enter your username: ")
+user_name = input("Please enter your username: ")
 user_password = input("Please enter your password: ")
 password_length = len(user_password)
 
