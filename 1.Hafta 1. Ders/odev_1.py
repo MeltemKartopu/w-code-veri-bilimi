@@ -1,33 +1,33 @@
 """ödev 1"""
 
-# prompt: Değişkenlere atanmış değerlerin veri tipleri arasında dönüşüm yapılır.
+# Değişkenlere atanmış değerlerin veri tipleri arasında dönüşüm yapılır.
 
 # Tam sayıdan ondalıklı sayıya dönüştürme
 sayi = 10
 ondalikli_sayi = float(sayi)
-print(ondalikli_sayi)  # Çıktı: 10.0
+print(ondalikli_sayi)  
 
 # Ondalıklı sayıdan tam sayıya dönüştürme
 ondalikli_sayi = 10.5
 tam_sayi = int(ondalikli_sayi)
-print(tam_sayi)  # Çıktı: 10
+print(tam_sayi)  
 
 # Sayıdan metne dönüştürme
 sayi = 25
 metin = str(sayi)
-print(metin)  # Çıktı: "25"
+print(metin)  
 
 # Metinden sayıya dönüştürme
 metin = "30"
 sayi = int(metin)
-print(sayi)  # Çıktı: 30
+print(sayi)  
 
 # Listeyi metne dönüştürme
 liste = [1, 2, 3]
 metin = str(liste)
-print(metin) # Çıktı: "[1, 2, 3]"
+print(metin) 
 
 # Metni listeye dönüştürme (virgülle ayrılmış değerler)
-metin = "elma,armut,muz"
+metin = "kiraz, armut, çilek"
 liste = metin.split(",")
-print(liste) # Çıktı: ['elma', 'armut', 'muz']
+print(liste) 
