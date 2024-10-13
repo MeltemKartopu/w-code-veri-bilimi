@@ -13,7 +13,7 @@ tam_sayi = int(ondalikli_sayi)
 print(tam_sayi)  
 
 # Sayıdan metne dönüştürme
-sayi = 25
+sayi = 20
 metin = str(sayi)
 print(metin)  
 
